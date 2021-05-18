@@ -1,0 +1,8 @@
+[
+  {"styleNumber": "ABC|123", "name": "T-Shirt1", "price": {"amount": 1500, "currency": "USD"}, "images": ["https://via.placeholder.com/400x300/4b0082?id=1", "https://via.placeholder.com/400x300/4b0082?id=2"]},
+  {"styleNumber": "ABC|124", "name": "T-Shirt2", "price": {"amount": 2500, "currency": "USD"}, "images": ["https://via.placeholder.com/400x300/4b0082?id=1", "https://via.placeholder.com/400x300/4b0082?id=2"]},
+  {"styleNumber": "ABC|125", "name": "T-Shirt3", "price": {"amount": 3500, "currency": "USD"}, "images": ["https://via.placeholder.com/400x300/4b0082?id=1", "https://via.placeholder.com/400x300/4b0082?id=2"]},
+  {"styleNumber": "ABC|126", "name": "T-Shirt4", "price": {"amount": 4500, "currency": "USD"}, "images": ["https://via.placeholder.com/400x300/4b0082?id=1", "https://via.placeholder.com/400x300/4b0082?id=2"]},
+  {"styleNumber": "ABC|127", "name": "T-Shirt5", "price": {"amount": 5500, "currency": "USD"}, "images": ["https://via.placeholder.com/400x300/4b0082?id=1", "https://via.placeholder.com/400x300/4b0082?id=2"]},
+  {"styleNumber": "ABC|128", "name": "T-Shirt6", "price": {"amount": 6500, "currency": "USD"}, "images": ["https://via.placeholder.com/400x300/4b0082?id=1", "https://via.placeholder.com/400x300/4b0082?id=2"]}
+]
